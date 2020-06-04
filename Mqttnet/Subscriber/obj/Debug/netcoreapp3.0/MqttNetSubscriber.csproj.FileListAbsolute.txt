@@ -1,0 +1,15 @@
+F:\MyDevEnv\WorkStation-0092\MQTT\mqttnet.extension\Subscriber\bin\Debug\netcoreapp3.0\MqttNetSubscriber.exe
+F:\MyDevEnv\WorkStation-0092\MQTT\mqttnet.extension\Subscriber\bin\Debug\netcoreapp3.0\MqttNetSubscriber.deps.json
+F:\MyDevEnv\WorkStation-0092\MQTT\mqttnet.extension\Subscriber\bin\Debug\netcoreapp3.0\MqttNetSubscriber.runtimeconfig.json
+F:\MyDevEnv\WorkStation-0092\MQTT\mqttnet.extension\Subscriber\bin\Debug\netcoreapp3.0\MqttNetSubscriber.runtimeconfig.dev.json
+F:\MyDevEnv\WorkStation-0092\MQTT\mqttnet.extension\Subscriber\bin\Debug\netcoreapp3.0\MqttNetSubscriber.dll
+F:\MyDevEnv\WorkStation-0092\MQTT\mqttnet.extension\Subscriber\bin\Debug\netcoreapp3.0\MqttNetSubscriber.pdb
+F:\MyDevEnv\WorkStation-0092\MQTT\mqttnet.extension\Subscriber\bin\Debug\netcoreapp3.0\MQTTnet.dll
+F:\MyDevEnv\WorkStation-0092\MQTT\mqttnet.extension\Subscriber\obj\Debug\netcoreapp3.0\MqttNetSubscriber.csprojAssemblyReference.cache
+F:\MyDevEnv\WorkStation-0092\MQTT\mqttnet.extension\Subscriber\obj\Debug\netcoreapp3.0\MqttNetSubscriber.csproj.CoreCompileInputs.cache
+F:\MyDevEnv\WorkStation-0092\MQTT\mqttnet.extension\Subscriber\obj\Debug\netcoreapp3.0\MqttNetSubscriber.AssemblyInfoInputs.cache
+F:\MyDevEnv\WorkStation-0092\MQTT\mqttnet.extension\Subscriber\obj\Debug\netcoreapp3.0\MqttNetSubscriber.AssemblyInfo.cs
+F:\MyDevEnv\WorkStation-0092\MQTT\mqttnet.extension\Subscriber\obj\Debug\netcoreapp3.0\MqttNetSubscriber.csproj.CopyComplete
+F:\MyDevEnv\WorkStation-0092\MQTT\mqttnet.extension\Subscriber\obj\Debug\netcoreapp3.0\MqttNetSubscriber.dll
+F:\MyDevEnv\WorkStation-0092\MQTT\mqttnet.extension\Subscriber\obj\Debug\netcoreapp3.0\MqttNetSubscriber.pdb
+F:\MyDevEnv\WorkStation-0092\MQTT\mqttnet.extension\Subscriber\obj\Debug\netcoreapp3.0\MqttNetSubscriber.genruntimeconfig.cache
